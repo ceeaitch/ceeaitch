@@ -39,5 +39,5 @@ Mit n8n, Synesty Studio und KI-gestütztem Coding automatisiere ich manuelle Pro
 ## 📫 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Hellstern-0077b5?style=flat-square&logo=linkedin)](www.linkedin.com/in/christopher-h-70697629b)
-[![Email](https://img.shields.io/badge/Email-chellstern95%40icloud.com-red?style=flat-square&logo=apple)](mailto:info@cstack-solutions.de)
+[![Email](https://img.shields.io/badge/Email-info@cstack-solutions.de-red?style=flat-square&logo=apple)](mailto:info@cstack-solutions.de)
 [![Website](https://img.shields.io/badge/Website-cstack--solutions.de-black?style=flat-square)](https://cstack-solutions.de)
