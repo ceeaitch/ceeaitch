@@ -19,13 +19,16 @@ Mit n8n, Synesty Studio und KI-gestütztem Coding automatisiere ich manuelle Pro
 
 ## 🛠️ Tech & Tools
 
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
 ![Synesty](https://img.shields.io/badge/Synesty%20Studio-Integration-blue?style=flat-square)
-![Shopware](https://img.shields.io/badge/Shopware%206-E--Commerce-00b3e3?style=flat-square)
-![Shopify](https://img.shields.io/badge/Shopify-E--Commerce-96bf48?style=flat-square)
+![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Visual Studios Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-Projektmanagement-7b68ee?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude%20Code-KI%20Coding-black?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-Frontend-yellow?style=flat-square)
 
 ---
 
@@ -38,6 +41,7 @@ Mit n8n, Synesty Studio und KI-gestütztem Coding automatisiere ich manuelle Pro
 
 ## 📫 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Hellstern-0077b5?style=flat-square&logo=linkedin)](www.linkedin.com/in/christopher-h-70697629b)
-[![Email](https://img.shields.io/badge/Email-info@cstack-solutions.de-red?style=flat-square&logo=mail)](mailto:info@cstack-solutions.de)
-[![Website](https://img.shields.io/badge/Website-cstack--solutions.de-black?style=flat-square)](https://cstack-solutions.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-h-70697629b)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.de/u/cstacksolutions?sb=t)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@cstack-solutions.de)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cstack-solutions.de)
